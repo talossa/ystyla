@@ -1,6 +1,6 @@
 # **Ystylä-info**
 
-"_Ystyl__ä_ _on my mind_" -Ystyläläisten Ystylää muistellessaan käyttämä sanonta
+"_Ystylä on my mind_" -Ystyläläisten Ystylää muistellessaan käyttämä sanonta
 
 **Ystylä** (ruots. _Ystyls_, eng. _Ystylia_, vir. _Üstüla_, saks. _Üstülhof_, ransk. _Oustoul_, turk. _Üstülgüzül_, ven. _Устьюля_ "Ust'julja", jap. _ユストゥラ_ "Yusutura") on itsenäinen kaupunkivaltio Keski-Uudellamaalla.
 
@@ -290,7 +290,7 @@ Toinen:
 
 "_Ketä äänestit?_" "_No en ainakaan YKP:tä!_"
 
-## Talo **us**
+## Talous
 
 ### Tilastoja
 
@@ -312,19 +312,19 @@ Toinen:
 
 Merkittävimpiä toimialoja: Urheilu, prostituutio, rakennusala, teknologia, huumeiden kasvatus ja myynti, kumipuut
 
-## Yksityinen sektori
+### Yksityinen sektori
 
-### Äpsilän Asutusyhtiökonserni
+**Äpsilän Asutusyhtiökonserni**
 
 - Ystylän suurin rakennus- ja kiinteistönvälitysyhtiö. Vastuussa valtaosasta Ystylässä rakennetuista taloista ja rakennuksista (_n. 73__%_).
 - Äpsilän Asutusyhtiökonserni myöskin tunnetusti palkkaa paljon alueen nuoria arkkitehtejä ja rakennusinsinöörejä, ollen näin merkittävä työllisyyden ja talouden edistäjä Ystylässä.
 
-### Ystylän Jalkapalloklubi YJK
+**Ystylän Jalkapalloklubi YJK**
 
 - Maailmankuulu jalkapallojoukkue, moninkertainen Euroopanmestari.
   - Seura on perustettu vuonna 1327, eli noin reilut 500 vuotta ennen jalkapallon syntyä.
 
-### Ravintoloita
+**Ravintoloita**
 
 - Kaakkois-Aasialainen ravintola _ **Palang Assa Ang** _
 - Italialainen ravintola _ **Casa di Peppurino** _
@@ -332,17 +332,17 @@ Merkittävimpiä toimialoja: Urheilu, prostituutio, rakennusala, teknologia, huu
 - Japanilainen ravintola _ **Kin kin kin kin kin kin kin** _
 - Sporttibaari & siipiravintola _ **Siipilapset OY** _, joka sponsoroi jokavuotiset hampainkolistelukilpailut Tyrängissä
 
-## Julkinen sektori
+### Julkinen sektori
 
 - Julkisen sektorin rahoittaa _Ystylän Keskuspankki YKP_
 - Ystylän veroprosentti on progressiivinen 0-5%, se riittää valtion vaurauden huomioonottaen.
 - Julkinen sektori kattaa perusopetuksen, terveydenhuollon, tulonsiirrot, julkisen liikenteen ja kulttuuripalvelut.
 
-## L **iikenne**
+## Liikenne
 
 tähän vois selittää jotain Ystylään liittyvästä liikenteestä yleisesti, sit erilliset osiot liikenteelle Ystylään muualta ja Ystylän sisäisestä liikenteestä
 
-## Kuinka Ystylään pääsee?
+### Kuinka Ystylään pääsee?
 
 - Y-Juna Helsingistä Ystylään
   - Junaliikennettä operoi Helsingin seudun liikenne (HSL) yhdessä Ystylän seudun liikenteen kanssa (YSL).
@@ -362,7 +362,7 @@ tähän vois selittää jotain Ystylään liittyvästä liikenteestä yleisesti,
 ![](RackMultipart20230428-1-nzwxqt_html_3d8545e313b1bd51.png)
  ilmakuva Ystylän kansainvälisestä lentoasemasta
 
-## Ystylän seudun liikenne (YSL)
+### Ystylän seudun liikenne (YSL)
 
 Ystylän valtion rahoittama joukkoliikennejuttu …
 
@@ -387,9 +387,9 @@ Muu koulutus
 
 ## Uskonnot ja myytit
 
-## Nykyinen uskontojakauma
+### Nykyinen uskontojakauma
 
-## Ystylän historiallinen mytologia
+### Ystylän historiallinen mytologia
 
 - Huomaamaton Jessika itse asiassa 2000 vuotta vanhaan kansantarustoon perustuva olento
 
@@ -412,7 +412,7 @@ Muutamia ystylän kielen ilmauksia ja sanontoja:
 
 "Ystylässä on hyvin monipuolisia mahdollisuuksia harrastamiseen ja kulttuuriin. Ystylässä sijaitsevat Uudenmaan alueen parhaat musiikkiopistot, urheilujoukkueet, kirjallisuusseurat, elokuvateatterit sekä ravintolat." -_Ystylä-info 4/2023_
 
-## Musiikki
+### Musiikki
 
 Tuotantoyhtiö _Y-Money Records_
 
@@ -425,19 +425,19 @@ Tuotantoyhtiö _Y-Money Records_
 
 kirjottakaa joku tää kaikki puhtaaks, ja lisätkää mitä vaa hevonpaskaa tulee mielee
 
-## Kulttuuritapahtumat
+### Kulttuuritapahtumat
 
 Ystylässä järjestetään vuosittain monenlaisia kulttuuritapahtumia aina musiikkifestivaaleista urheilukilpailuihin.
 
-### Fystyval
+**Fystyval**
 
 Ystylän musiikkitapahtumiin kuuluu mm. vuosittainen Chillilässä järjestettävä Fystyval. Fystyval houkuttelee vuosittain paikalle suuren määrän musiikin ystäviä Ystylästä ja maailman ympäri. Ympäröivässä Suomessa Fystyvalia pidetään myös erittäin suurena kohokohtana. Vuonna 2020 julkaistuissa tilastoissa ystyläläisten jälkeen Fystyvalissa kävi eniten suomalaisia vierailijoita. Fystyval tuottaakin Ystylälle vuosittain huomattavasti tuottoja suomalaisten turistien takia. Festivaalia on järjestetty vuodesta 1960 lähtien joka kesä ja on tänä päivänä monille ystyläläisille kesän huippuhetkiä. Vuoden 2023 Fystyvalin pääesiintyjä ovat mm. Drain Gang (SE), Al Mazyood Band (UAE), Dereje Belay (ET) sekä Kraiden (FI).
 
-### Yppyjärven yppykisat
+**Yppyjärven yppykisat**
 
 Yppyjärvellä järjestetään tunnetusti myös kesäkaudella vuosittaiset Yppyjärven yppykisat, pelleyppykisat, sekä taitoyppykisat. Kaikkiin yppykisoihin voi osallistua kuka tahansa ja lähes minkä ikäinen tahansa. Kisat koostuvat viidestä eri sarjasta ikäluokkien mukaan aina 5-vuotiaiden paskapoikien sarjasta yli 70-vuotiaiden Ryppylä-sarjaan. Kaikissa sarjoissa kilpaillaan hyppäämisen merkeissä lukuun ottamatta 5-vuotiaiden paskapoikien sarjaa, jossa lapset väkisin työnnetään 30 metrin korkeudelta alas ja kilpailun aspektia ei ole lainkaan. Paskapoikien sarjaa on pitkään käytetty perinteisenä ystyläläisenä rangaistuskeinona, sillä yppy- ja uimataidottomien poikien kohtaloksi koituu useimmiten kuolema. Kisoja sponsoroi Yppyjärvi-säätiö yhdessä Äpsilän asutusyhtiökonsernin kanssa.
 
-### Ystylän hampaankolistelukilpailut
+**Ystylän hampaankolistelukilpailut**
 
 Ystylässä järjestetään perinteisten kulttuuri- ja urheilutapahtumien ohella tavallisuudesta poikkeavat Ystylän Hampaankolistelukilpailut. Kilpailut tapahtuvat vuosittain Tyrängin tivolin parkkipaikalla. Hampaankolistelukilpailujen virallisen sääntökirjan mukaan kilpailut koostuvat ainoastaan yhdestä sarjasta joka koostuu yli 50-vuotiaista "rotevista" miehistä. Kilpailujen tavoitteena on syödä mahdollisimman nopeasti täysi ämpärillinen (10L) kanansiipiä, jonka jälkeen jäljelle jääneillä luilla aloitetaan hampaiden kiivas kolistelu. Kolistelu jatkuu monta kymmentä minuuttia, jonka jälkeen tuomaristo ja lautakunta päättävät kilpailun voittajan yhdessä yleisön antamien äänien kanssa. Hampaankolistelukilpailut ovat suuri vuosittainen karnevaali joka kerää kaikenikäisiä katsojia ympäri Ystylää. Kilpailuja sponsoroi Ravintola Siipilapset OY sekä Äpsilän Asutusyhtiökonserni.
 
@@ -477,16 +477,12 @@ Yppylän kaupunginosassa sijaitseva Yppylä-areenaYJK:n logo
   - Ystylän Jehovan todistajien johtohahmo Fretulius Sloan Ⅲ
   - Ystylän kansallisrunoilija Piilo Purkka
 
-###
-
 ### Kainalo eSports
 
 - Ystylässä toimii myös tunnettu e-urheiluorganisaatio Kainalo eSports. Vuonna 2020 perustettu organisaatio on mm. CS:GO:n ja Valorantin moninkertainen maailmanmestari. Joukkue kilpailee tällä hetkellä seitsemässä eri videopelissä (_CS:GO_, _Valorant_, _Rainbow Six Siege_, _Age of Empires 2_, _WordBomb_, _Assetto Corsa_ sekä _Euro Truck Simulator 2_) ja joukkueet muodostuvat ystyläläisistä nuorista aikuisista.
 - Kainalo eSports omistaa kotistadioninsa, Euroopan suurimman e-urheilulle pyhitetyn stadionin Tyräjoen äärellä Ezzilässä. Kainalon kotistadionilla pelataan huipputason e-urheiluotteluita säännöllisesti. Kainalon pelaajat asuvat myös itse kaikki Ezzilässä suuressa 1800-luvun peruskorjatussa kartanossa nimeltä Kainalokartano.
 - Kainalo eSports on e-urheilumaailmassa suuri organisaatio ja työllistää tuhansia ihmisiä Ystylässä.
 - Kainalon sponsoreina toimivat Ystylän Jalkapalloklubi ja ravintola Palang Assa Ang, joka vastaa tarjoilusta Kainalon kotiareenalla.
-
-##
 
 
 ## Viihde
@@ -532,9 +528,9 @@ Muita huomionarvoisia museoita ovat mm. neiti Kakka-Kakka-Kalajärven henkilöko
 
 ## Ruokakulttuuri
 
-## Ystyläläisiä ruokia
+### Ystyläläisiä ruokia
 
-### Kussi
+#### Kussi
 
 Kussi on Ystylän perinneruoka, jota on valmistettu ainakin 500-luvulta lähtien nykyisen Ystylän alueella. Kussin resepti on säilynyt alkuperäisasukkaiden sukupolvelta toiselle todennäköisesti suullisen perimätiedon mukana. Kussin resepti on pysynyt muuttumattomana pitkään, kenties sen ensimmäisestä versiosta lähtien, sillä vielä Ystylän perustamisen aikaan alueella eli vain metsästäjä-keräilijäheimoja, joiden elämäntapaan muualla jo aikaisemmin tapahtunut neoliittinen vallankumous ei ollut vielä ehtinyt vaikuttaa.
 
@@ -544,7 +540,7 @@ Kaikkia kusseja yhdistää niiden valmistustapa, mutta käytännössä kussi voi
 
 Suomen pääministeri _Petteri Orpo_ kalasti Tyräjoen rannalla pormestari _Üstüguzuliciklinin_ kanssa ollessaan valtiovierailulla Ystylässä vuonna 2023. Orpo sai myös maistella kalasta valmistettua _kussia_ Kokoomuksen ja YKP:n yhteistyökonferenssissa myöhemmin samana päivänä.
 
-### Muita ruokia
+#### Muita ruokia
 
 - **Fala fussi**
 Fala fussi on filippiiniläistaustaisen maahanmuuttajan hra. Fala Fussin kehittämä ateria, joka perustuu kalakussiin, mutta on maustettu filippiiniläisittäin. Fussin ollessa vierailulla Ystylässä hän maistoi kalakussia _Palang Assa Ang_ -ravintolassa ja järkyttyi sen maukkaudesta niin, että istui tuolillaan noin puoli tuntia katsoen tyhjyyteen. Tänä aikana hän ei vastannut ulkoisiin ärsykkeisiin, kuten kokkien ja tarjoilijoiden hätääntyneisiin huutoihin. Voimakkaan ja šokeeraavan kokemuksen jälkeen hra. Fussi päätti valmistaa kotitekoista kussia filippiiniläiseen tapaan, josta tuli heti ystyläläinen kestosuosikki. Fala fussin voitaisiin sanoa olevan eräänlainen kalakussi, mutta Fussiin viitaten nimi kirjoitetaan välilyönnillä.
@@ -568,28 +564,28 @@ _2AM butter chicken_ eli _aamukahden voikana_ on ystyläläiseen tapaan valmiste
 
 Koveron Whatsapp-ryhmään lähettämä kuva.
 
-## Ystylän ravintolakulttuuri
+### Ystylän ravintolakulttuuri
 
 Ystylässä toimii monipuolisia ravintoloita ympäri kaupunkia. Ystylän ravintolakokoelmaan kuuluu ravintoloita jotka tarjoilevat mm. Kaakkois-Aasialaista, Italialaista ja Japanilaista ruokaa.
 
-### Palang Assa Ang
+#### Palang Assa Ang
 
 Vuonna 1996 avattu Kaakkois-Aasialainen ravintola idyllisellä Yppyjärven rannalla. Ravintola on tunnettu makoisista curryistaan sekä erikoisuudestaan Malesian Kalapommista.
 
-### Casa di Peppurino
+#### Casa di Peppurino
 
 Asukkaiden pitkään suosima italialainen ravintola Ystylän keskustassa. Casa di Peppurino tarjoilee monipuolisia pizzoja, pastoja ja italialaista kotiruokaa, unohtamatta loistavaa viinikokoelmaa. Ravintolan perusti joukko Ystylään tulleita maahanmuuttajia Italiasta ja Jodelasta vuonna 1984.
 
-### Ystylän Pizzakeisari YPK
+#### Ystylän Pizzakeisari YPK
 
 Pizzeria/kebaberia, jolla on lukuisia sijainteja eri puolilla Ystylää, ml. Käkkilässä ja Yngylässä. Tunnettu hyvästä hinta-laatusuhteesta. Omistajat turkkilaisia, joka on aiheuttanut viime aikoina närää.
 
-### Kin kin kin kin kin kin kin
+#### Kin kin kin kin kin kin kin
 
 Vuonna 2007 avattu legendaarinen japanilainen ravintola Käkkilässä. Tämä neljän Michelin-tähden maailmankuulu ravintola tarjoilee arvostelijoiden mukaan "laadukkainta japanilaista ruokaa koko maailmassa". Ravintolan omistaja ja pääkokki _Yoshihide Masayuki-Kawamura-Kawabata_ valmistaa ateriat suoraan asiakkaiden edessä tiskillä, joka on ravintolan erikoisuus. Ravintolan tunnelma on erittäin autenttinen ja asiakkaiden mukaan ruoka on kuin suoraan "tiedät kyllä mistä ;)".
  Ravintola on nimetty Ystyläläis-Japanilaisen e-urheilulegenda Taro "Kin kin kin kin kin kin kin" Endon muiston kunniaksi.
 
-### Siipilapset OY
+#### Siipilapset OY
 
 Sporttibaari & siipiravintola, tunnettu valtavista annoksistaan ja _huurteisista yksilöistään_. Ravintola toimii myös Jalkapallojoukkue YJK:n kannattajien jatkopaikkana.
 

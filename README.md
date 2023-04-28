@@ -1,4 +1,3 @@
-#
 # **Ystylä-info**
 
 "_Ystyl__ä_ _on my mind_" -Ystyläläisten Ystylää muistellessaan käyttämä sanonta
@@ -13,23 +12,23 @@ Ystylä on saanut nimensä Ystylän perustajahahmosta _Mohadir Üstülistä_.
 
 Ystylä on rakennettu 1300-luvulla turkkilaisten lähetyssaarnajien perustaman linnoituksen ympärille, ja se on vaurautensa ja eristyneisyytensä ansiosta onnistunut pysymään itsenäisenä sekä poliittisesti että kulttuurisesti.
 
-## Varhaishistoria
+### Varhaishistoria
 
-## Ystylän perustaminen
+### Ystylän perustaminen
 
 - ne turkkilaiset 1300-luvulla
 
-## 1500-1700-luku
+### 1500-1700-luku
 
 - ystyläläisiä separatisteja ja muita Üstülin aatelisperheen vihollisia hukutettiin Tyräjokeen
 
-## 1800-luku
+### 1800-luku
 
 - teollistuminen
 
-## 1900-luku
+### 1900-luku
 
-## Tragedioita, skandaaleja ja katastrofeja
+### Tragedioita, skandaaleja ja katastrofeja
 
 - K. Kalajärven radioaktiivisuus tajuttu 1700-1800-luvun useiden mystisten "_kussikuolemien_" kautta
   - järveen liittyvät myytit ja mystinen pelko

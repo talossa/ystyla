@@ -197,6 +197,7 @@ Ystylä on rakennettu 1300-luvulla turkkilaisten lähetyssaarnajien perustaman l
 
 ### "_Yngylän Yngermi_"
 
+- Katso myös [Yngylän_Yngermi](Yngylän Yngermi)
 - Oikeaa nimeä ei tiedetä.
 - Hän on tiettävästi kotoisin Yngylästä.
 - Omalaatuinen mutta valloittava persoona, laajalti rakastettu.
